@@ -1,1 +1,8 @@
-# simple-restful-api-demo
+
+#### Requirements
+* Node/ NPM
+* MongoDB
+
+#### Install
+* npm install
+* npm start
